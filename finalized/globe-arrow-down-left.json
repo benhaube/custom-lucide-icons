@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "benhaube"
+  ],
+  "use-cases": [],
+  "tags": [
+    "internet",
+    "remote",
+    "connection",
+    "web",
+    "online",
+    "network"
+  ],
+  "categories": [
+    "devices",
+    "connectivity"
+  ]
+}
