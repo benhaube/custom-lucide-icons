@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="lucide lucide-screen-share-icon lucide-screen-share"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="install-desktop-2-inkscape.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="34.353604"
+     inkscape:cx="13.273716"
+     inkscape:cy="10.537468"
+     inkscape:current-layer="svg5"
+     showgrid="true">
+    <inkscape:grid
+       id="grid5"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="6"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     d="M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3"
+     id="path1" />
+  <path
+     d="M8 21h8"
+     id="path2" />
+  <path
+     d="M12 17v4"
+     id="path3" />
+  <path
+     d="m 17,2 v 9 l 4,-4"
+     id="path3-3"
+     sodipodi:nodetypes="ccc"
+     inkscape:label="path4" />
+  <path
+     d="M 17,11 13,7"
+     id="path4-6"
+     sodipodi:nodetypes="cc"
+     inkscape:label="path5" />
+</svg>
