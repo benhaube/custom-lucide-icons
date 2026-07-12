@@ -1,0 +1,4 @@
+# Fix syntax highlighting on GitHub to allow comments
+.vscode/*.json linguist-language=JSON-with-Comments
+# Apply override to all files in the directory
+*.md linguist-detectable
