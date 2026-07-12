@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "benhaube"
+  ],
+  "use-cases": [],
+  "tags": [
+    "computer",
+    "software",
+    "install",
+    "monitor"
+  ],
+  "categories": [
+    "devices",
+    "development"
+  ]
+}
