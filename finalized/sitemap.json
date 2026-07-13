@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "benhaube"
+  ],
+  "use-cases": [],
+  "tags": [
+    "cloud",
+    "website",
+    "flowchart",
+    "internet"
+  ],
+  "categories": [
+    "development",
+    "connectivity"
+  ]
+}
