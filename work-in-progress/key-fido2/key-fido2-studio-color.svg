@@ -1,0 +1,32 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M 12 7 A2 2 0 0 1 14 9" stroke="#1982c4"/>
+  <path d="M 14 9 A2 2 0 0 1 12 11" stroke="#1982c4"/>
+  <path d="M 12 11 A2 2 0 0 1 10 9" stroke="#1982c4"/>
+  <path d="M 10 9 A2 2 0 0 1 12 7" stroke="#1982c4"/>
+  <path d="M 8 2 L 16 2" stroke="#4267AC"/>
+  <path d="M 16 2 A2 2 0 0 1 18 4" stroke="#4267AC"/>
+  <path d="M 18 4 L 18 15" stroke="#4267AC"/>
+  <path d="M 18 15 A2 2 0 0 1 16 17" stroke="#4267AC"/>
+  <path d="M 16 17 L 8 17" stroke="#4267AC"/>
+  <path d="M 8 17 A2 2 0 0 1 6 15" stroke="#4267AC"/>
+  <path d="M 6 15 L 6 4" stroke="#4267AC"/>
+  <path d="M 6 4 A2 2 0 0 1 8 2" stroke="#4267AC"/>
+  <path d="M 9 17 L 15 17" stroke="#6a4c93"/>
+  <path d="M 15 17 A1 1 0 0 1 16 18" stroke="#6a4c93"/>
+  <path d="M 16 18 L 16 21" stroke="#6a4c93"/>
+  <path d="M 16 21 A1 1 0 0 1 15 22" stroke="#6a4c93"/>
+  <path d="M 15 22 L 9 22" stroke="#6a4c93"/>
+  <path d="M 9 22 A1 1 0 0 1 8 21" stroke="#6a4c93"/>
+  <path d="M 8 21 L 8 18" stroke="#6a4c93"/>
+  <path d="M 8 18 A1 1 0 0 1 9 17" stroke="#6a4c93"/>
+</svg>
