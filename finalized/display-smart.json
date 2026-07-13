@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "benhaube"
+  ],
+  "use-cases": [],
+  "tags": [
+    "amenities",
+    "iot",
+    "house",
+    "household",
+    "electronics",
+    "internet",
+    "things",
+    "display"
+  ],
+  "categories": [
+    "devices",
+    "home"
+  ]
+}
