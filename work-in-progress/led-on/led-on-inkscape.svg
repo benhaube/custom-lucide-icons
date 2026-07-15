@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    version="1.1"
    id="svg1"
-   sodipodi:docname="led-off-inkscape.svg"
+   sodipodi:docname="led-on-inkscape.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,7 +30,7 @@
      showgrid="true"
      inkscape:zoom="32"
      inkscape:cx="8.46875"
-     inkscape:cy="9.375"
+     inkscape:cy="5.625"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -77,11 +77,11 @@
      id="path7"
      sodipodi:nodetypes="cc" />
   <path
-     d="M 19,5 20,4"
+     d="M 18.75,5.25 19.5,4.5"
      id="path8"
      sodipodi:nodetypes="cc" />
   <path
-     d="M 5,5 4,4"
+     d="M 5.25,5.25 4.5,4.5"
      id="path9"
      sodipodi:nodetypes="cc" />
   <path
