@@ -29,9 +29,9 @@
      inkscape:deskcolor="#505050"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="2.9168155"
-     inkscape:cy="13.12567"
+     inkscape:zoom="32"
+     inkscape:cx="10.78125"
+     inkscape:cy="12.71875"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -52,63 +52,52 @@
   <rect
      style="stroke-width:2"
      id="rect1"
-     width="20"
+     width="18"
      height="18"
-     x="2"
+     x="3"
      y="4"
      rx="2"
      ry="1.9999999" />
   <path
      style="stroke-width:2"
-     d="M 5,4 V 2"
+     d="M 6,4 V 2"
      id="path1"
      sodipodi:nodetypes="cc" />
   <path
      style="stroke-width:2"
-     d="M 19,4 V 2"
+     d="M 18,4 V 2"
      id="path2"
      sodipodi:nodetypes="cc" />
   <path
      style="stroke-width:2"
-     d="m 14,12.000003 h 4"
+     d="m 14,13 h 3"
      id="path3"
      sodipodi:nodetypes="cc" />
   <path
      style="stroke-width:2"
-     d="m 6,12.000003 h 4"
+     d="m 7,13 h 3"
      id="path4"
      sodipodi:nodetypes="cc" />
-  <rect
-     style="stroke-width:2"
-     id="rect4"
-     width="12"
-     height="2"
-     x="6"
-     y="16"
-     rx="1"
-     ry="1" />
   <line
-     x1="6"
-     x2="6.0100002"
+     x1="7"
+     x2="7.0100002"
      y1="8"
      y2="8"
      id="line6" />
   <line
-     x1="10"
-     x2="10.01"
+     x1="12"
+     x2="12.01"
      y1="8"
      y2="8"
      id="line7" />
   <line
-     x1="14"
-     x2="14.01"
+     x1="17"
+     x2="17.01"
      y1="8"
      y2="8"
      id="line8" />
-  <line
-     x1="18"
-     x2="18.01"
-     y1="8"
-     y2="8"
-     id="line9" />
+  <path
+     d="M 7,18 H 17"
+     id="path5"
+     sodipodi:nodetypes="cc" />
 </svg>
