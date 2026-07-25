@@ -3,5 +3,6 @@
   <path d="m9 19 3 3 3-3"/>
   <path d="M 19,15 21.982847,11.979417 19,9"/>
   <path d="m5 9-3 3 3 3"/>
-  <circle cx="12" cy="12" r="3"/>
+  <circle cx="12" cy="12" r="3" display="none"/>
+  <path d="m12 8-4 4 4 4 4-4z"/>
 </svg>
