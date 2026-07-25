@@ -8,18 +8,19 @@
    stroke-width="2"
    stroke-linecap="round"
    stroke-linejoin="round"
+   class="lucide lucide-pc-case-icon lucide-pc-case"
    version="1.1"
-   id="svg1"
-   sodipodi:docname="server-rack-inkscape.svg"
+   id="svg3"
+   sodipodi:docname="pc-case.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs3" />
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview3"
      pagecolor="#505050"
      bordercolor="#ffffff"
      borderopacity="1"
@@ -28,13 +29,12 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     showguides="false"
-     inkscape:zoom="32"
-     inkscape:cx="10.78125"
-     inkscape:cy="12.71875"
-     inkscape:current-layer="svg1">
+     inkscape:zoom="24.291667"
+     inkscape:cx="10.785592"
+     inkscape:cy="14.490566"
+     inkscape:current-layer="svg3">
     <inkscape:grid
-       id="grid1"
+       id="grid3"
        units="px"
        originx="0"
        originy="0"
@@ -48,56 +48,35 @@
        enabled="true"
        visible="true" />
   </sodipodi:namedview>
-  <!-- SVGElements -->
   <rect
-     style="stroke-width:2"
-     id="rect1"
-     width="18"
-     height="16"
-     x="3"
-     y="4.999999"
+     width="16"
+     height="20"
+     x="4"
+     y="2"
      rx="2"
-     ry="1.9999999" />
+     id="rect1" />
   <path
-     style="stroke-width:2"
-     d="M 6,5 V 3"
-     id="path1"
-     sodipodi:nodetypes="cc" />
+     d="m 16,6 h 0.01"
+     id="path1" />
   <path
-     style="stroke-width:2"
-     d="M 18,5 V 3"
+     d="m 8,14 h 8"
      id="path2"
+     style="stroke-width:2"
      sodipodi:nodetypes="cc" />
   <path
-     style="stroke-width:2"
-     d="m 14,13 h 3"
+     d="m 8,18 h 8"
      id="path3"
-     sodipodi:nodetypes="cc" />
-  <path
      style="stroke-width:2"
-     d="m 7,13 h 3"
-     id="path4"
      sodipodi:nodetypes="cc" />
-  <line
-     x1="7"
-     x2="7.0100002"
-     y1="9.0000038"
-     y2="9.0000038"
-     id="line6" />
-  <line
-     x1="12"
-     x2="12.01"
-     y1="9.0000038"
-     y2="9.0000038"
-     id="line7" />
-  <line
-     x1="17"
-     x2="17.01"
-     y1="9.0000038"
-     y2="9.0000038"
-     id="line8" />
   <path
-     d="M 7,17 H 17"
-     id="path5"
+     d="m 12,6 h 0.01"
+     id="path4" />
+  <path
+     d="M 8,6 H 8.01"
+     id="path5" />
+  <path
+     d="m 8,10 h 8"
+     id="path6"
+     style="stroke-width:2"
      sodipodi:nodetypes="cc" />
 </svg>
