@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="8.46875"
-     inkscape:cy="9.375"
+     inkscape:zoom="45.254834"
+     inkscape:cx="11.888233"
+     inkscape:cy="12.529048"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -49,7 +49,7 @@
   </sodipodi:namedview>
   <!-- SVGElements -->
   <path
-     d="M 4,19.000425 H 20"
+     d="M 4,19.000425 H 18.5"
      id="path1"
      sodipodi:nodetypes="cc" />
   <path
@@ -61,15 +61,20 @@
      id="path3"
      sodipodi:nodetypes="cc" />
   <path
-     d="m 7,19.000425 v -7"
+     d="M 7,19.000425 V 12"
      id="path4"
      sodipodi:nodetypes="cc" />
   <path
-     d="M 17,19 V 12"
-     id="path5"
+     d="m 13,7 c 2.197136,0 4,1.7424984 4,4"
+     id="path6"
      sodipodi:nodetypes="cc" />
   <path
-     d="M 7,12.000425 C 7.00187,5.3051804 17.039044,5.3795524 17,12"
-     id="path6"
+     style="stroke-width:2;stroke-linejoin:round"
+     d="M 2,2 22,22"
+     id="path7"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="M 8,8.4 C 7.0644764,9.2333596 6.9903464,10.344888 7.0001074,12"
+     id="path8"
      sodipodi:nodetypes="cc" />
 </svg>
