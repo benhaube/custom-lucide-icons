@@ -11,14 +11,32 @@
    class="lucide lucide-shield-icon lucide-shield"
    version="1.1"
    id="svg1"
-   sodipodi:docname="shield-house-inkscape.svg"
+   sodipodi:docname="shield-heart.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
@@ -29,9 +47,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="34.353604"
-     inkscape:cx="9.722415"
-     inkscape:cy="11.96381"
+     inkscape:zoom="32"
+     inkscape:cx="10.53125"
+     inkscape:cy="12.34375"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -52,15 +70,9 @@
      d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
      id="path1" />
   <path
-     d="m 14,21 v -6 h -4 v 6"
+     d="M 8.683,12.852791 C 6.5115652,10.588857 10.039011,7.4415209 12,9.89 c 1.965142,-2.416424 5.476625,0.649566 3.336,2.912 l -2.582,2.856 c -0.397879,0.458131 -1.109121,0.458131 -1.507,0 z"
      id="path2"
-     sodipodi:nodetypes="cccc" />
-  <path
-     d="m 12,8 8,5"
-     id="path3"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="M 4,13 12,8"
-     id="path4"
-     sodipodi:nodetypes="cc" />
+     sodipodi:nodetypes="cccccc"
+     inkscape:path-effect="#path-effect2"
+     inkscape:original-d="M 8.683,12.852791 C 6.5115652,10.588857 10.039011,7.4415209 12,9.89 c 1.965142,-2.416424 5.476625,0.649566 3.336,2.912 l -2.582,2.856 c -0.397879,0.458131 -1.109121,0.458131 -1.507,0 z" />
 </svg>
