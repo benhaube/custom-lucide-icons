@@ -4,6 +4,4 @@
   <line x1="7" x2="7.01" y1="12" y2="12"/>
   <path d="m17 16v-8"/>
   <path d="m12 16v-8"/>
-  <path d="m7 16h2" display="none"/>
-  <path d="m7 12h2" display="none"/>
 </svg>
