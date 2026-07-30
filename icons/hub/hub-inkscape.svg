@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="48.583333"
-     inkscape:cx="12.607204"
-     inkscape:cy="9.5300173"
+     inkscape:zoom="34.353604"
+     inkscape:cx="9.605979"
+     inkscape:cy="12.458664"
      inkscape:current-layer="svg1"
      showguides="false">
     <inkscape:grid
@@ -49,61 +49,45 @@
        visible="true" />
   </sodipodi:namedview>
   <!-- SVGElements -->
-  <circle
-     id="path1"
-     cx="3.615182e-07"
-     cy="16.961679"
-     transform="rotate(-45)"
-     r="2" />
   <path
-     d="m 10,11.5 -4,-1"
-     id="path2"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="m 14,11.5 4,-1"
-     id="path3"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="M 11,14 8.5,17"
-     id="path4"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="m 13,14 2.5,3"
-     id="path5"
-     sodipodi:nodetypes="cc" />
-  <circle
-     id="path10"
-     cx="-4.2426414"
-     cy="9.8906107"
-     r="2"
-     transform="rotate(-45)" />
-  <circle
-     id="circle11"
-     cx="7.0719948"
-     cy="21.204554"
-     r="1.999927"
-     transform="matrix(0.70706816,-0.7071454,0.70706816,0.7071454,0,0)"
-     style="stroke-width:1.99993" />
-  <circle
-     id="circle13"
-     cx="-1.4142139"
-     cy="25.44696"
-     r="2"
-     transform="rotate(-45)" />
-  <circle
-     id="circle15"
-     cx="-8.4852819"
-     cy="18.375893"
-     r="2"
-     transform="rotate(-45)" />
-  <path
-     d="M 12,10 V 6"
+     d="m 14.5,9.5 3,-3"
      id="path6"
      sodipodi:nodetypes="cc" />
   <circle
-     id="circle6"
-     cx="5.6568537"
-     cy="11.304825"
-     r="2"
-     transform="rotate(-45)" />
+     id="path1"
+     cx="12"
+     cy="12"
+     r="3" />
+  <circle
+     id="path7"
+     cx="5"
+     cy="5"
+     r="2" />
+  <circle
+     id="path8"
+     cx="5"
+     cy="19"
+     r="2" />
+  <circle
+     id="circle8"
+     cx="19"
+     cy="5"
+     r="2" />
+  <circle
+     id="path10"
+     cx="19"
+     cy="19"
+     r="2" />
+  <path
+     d="m 9.5,9.5 -3,-3"
+     id="path11"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 14.5,14.5 3,3"
+     id="path12"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 9.5,14.5 -3,3"
+     id="path13"
+     sodipodi:nodetypes="cc" />
 </svg>
