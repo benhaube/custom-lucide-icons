@@ -1,0 +1,12 @@
+<svg class="lucide lucide-rectangle-ellipsis-icon lucide-rectangle-ellipsis" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="m12 12v-.01"/>
+  <path d="m12 7v-.01"/>
+  <path d="m12 17v-.01"/>
+  <path d="m17 6h3l-3 2"/>
+  <path d="m17 11h3l-3 2"/>
+  <path d="m17 16h3l-3 2"/>
+  <path d="m7 6h-3l3 2"/>
+  <path d="m7 11h-3l3 2"/>
+  <path d="m7 16h-3l3 2"/>
+  <rect x="7" y="3" width="10" height="18" rx="2" ry="2"/>
+</svg>
