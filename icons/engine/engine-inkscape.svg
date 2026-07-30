@@ -23,7 +23,7 @@
        id="path-effect5"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,2,0,1"
        radius="0"
        unit="px"
        method="auto"
@@ -46,9 +46,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="17.176802"
-     inkscape:cx="24.742673"
-     inkscape:cy="14.554513"
+     inkscape:zoom="48.583333"
+     inkscape:cx="10.106347"
+     inkscape:cy="13.605489"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -68,12 +68,12 @@
   <!-- SVGElements -->
   <path
      style="stroke-width:2;stroke-linejoin:round"
-     d="M 16,8 H 8 a 2,2 135 0 0 -2,2 v 4 a 2,2 45 0 0 2,2 h 3 l 2,2 h 3 a 2,2 135 0 0 2,-2 V 10 A 2,2 45 0 0 16,8 Z"
+     d="M 16,8 H 8 a 2,2 135 0 0 -2,2 v 4 a 2,2 45 0 0 2,2 h 2 a 2.4142136,2.4142136 22.5 0 1 1.707107,0.707107 l 0.585786,0.585786 A 2.4142136,2.4142136 22.5 0 0 14,18 h 2 a 2,2 135 0 0 2,-2 V 10 A 2,2 45 0 0 16,8 Z"
      id="path1"
      sodipodi:nodetypes="ccccccc"
-     inkscape:path-effect="#path-effect5"
+     transform="translate(0,1)"
      inkscape:original-d="M 18,8 H 6 v 8 h 5 l 2,2 h 5 z"
-     transform="translate(0,1)" />
+     inkscape:path-effect="#path-effect5" />
   <path
      style="stroke-width:2;stroke-linejoin:round"
      d="M 6,13 H 2"
