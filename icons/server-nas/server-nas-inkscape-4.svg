@@ -29,8 +29,8 @@
      inkscape:deskcolor="#505050"
      showgrid="true"
      inkscape:zoom="34.353604"
-     inkscape:cx="8.2669639"
-     inkscape:cy="9.402216"
+     inkscape:cx="8.2960728"
+     inkscape:cy="9.4022158"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -60,8 +60,8 @@
   <line
      x1="6"
      x2="6.0100002"
-     y1="8"
-     y2="8"
+     y1="9"
+     y2="9"
      id="line3"
      style="display:inline" />
   <path
@@ -72,16 +72,6 @@
      d="M 14,16 V 8"
      id="path2"
      sodipodi:nodetypes="cc" />
-  <path
-     d="M 7,16 H 9"
-     id="path3"
-     sodipodi:nodetypes="cc"
-     style="display:none" />
-  <path
-     d="M 7,12 H 9"
-     id="path4"
-     sodipodi:nodetypes="cc"
-     style="display:none" />
   <path
      d="M 10,16 V 8"
      id="path5"
