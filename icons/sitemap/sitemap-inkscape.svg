@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    version="1.1"
    id="svg1"
-   sodipodi:docname="sitemap.svg"
+   sodipodi:docname="sitemap-inkscape.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -94,8 +94,8 @@
      showgrid="true"
      showguides="false"
      inkscape:zoom="34.353604"
-     inkscape:cx="11.017767"
-     inkscape:cy="9.5768699"
+     inkscape:cx="13.404707"
+     inkscape:cy="12.022028"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -113,42 +113,42 @@
        visible="true" />
   </sodipodi:namedview>
   <!-- SVGElements -->
-  <circle
-     id="path1"
-     cx="12"
-     cy="4"
-     r="2" />
   <path
-     d="M 12,4.9999999 V 11 h 6 a 2,2 45 0 1 2,2 v 4"
+     d="M 12,5.9999999 V 11 h 6 a 2,2 45 0 1 2,2 v 3"
      id="path2"
      sodipodi:nodetypes="cccc"
      inkscape:path-effect="#path-effect6"
-     inkscape:original-d="M 12,4.9999999 V 11 h 8 v 6"
+     inkscape:original-d="M 12,5.9999999 V 11 h 8 v 5"
      transform="translate(0,1.0000001)" />
-  <circle
-     id="path4"
-     cx="20"
-     cy="20.000004"
-     r="2" />
   <path
-     d="M 12,11 C 9.9922473,11.010295 7.9999457,10.99741 5.9999083,10.996135 4.8953876,10.995431 4,11.895431 4,13 v 4"
+     d="M 12,11 C 9.9922473,11.010295 7.9999457,10.99741 5.9999083,10.996135 4.8953876,10.995431 4,11.895431 4,13 v 3"
      id="path5"
      sodipodi:nodetypes="ccc"
      inkscape:path-effect="#path-effect5"
-     inkscape:original-d="M 12,11 C 9.3241852,11.01372 6.6758148,10.98627 4,11 v 6"
+     inkscape:original-d="M 12,11 C 9.3241852,11.01372 6.6758148,10.98627 4,11 v 5"
      transform="translate(0,1.0000001)" />
   <path
-     d="m 12,12 v 6"
+     d="m 12,12 v 5"
      id="path7"
      sodipodi:nodetypes="cc" />
   <circle
-     id="path8"
+     id="path1"
      cx="12"
-     cy="20.000004"
+     cy="5"
      r="2" />
   <circle
-     id="circle8"
+     id="path3"
      cx="4"
-     cy="20.000004"
+     cy="19"
+     r="2" />
+  <circle
+     id="path4"
+     cx="12"
+     cy="19"
+     r="2" />
+  <circle
+     id="path6"
+     cx="20"
+     cy="19"
      r="2" />
 </svg>
