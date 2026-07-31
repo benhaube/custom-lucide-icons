@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/assets/logo.png" width="400" height="400" alt="Project logo" />
+    <img src="/assets/icon-grid-background.png" width="400" height="350" alt="Icon grid" />
 </p>
 <h1 align="center">
     Custom Lucide Icons
