@@ -9,19 +9,30 @@
   stroke-linecap="round"
   stroke-linejoin="round"
 >
-  <path d="M 12 20 C 11.816 20.853 11.099 21.48 10.293 21.771" stroke="#1982c4"/>
-  <path d="M 10.293 21.771 C 9.449 22.076 8.547 22 7.668 22" stroke="#4267AC"/>
-  <path d="M 7.668 22 L 3 22" stroke="#6a4c93"/>
-  <path d="M 8 2 L 16 2" stroke="#B55379"/>
-  <path d="M 16 2 L 16 7" stroke="#FF595E"/>
-  <path d="M 16 7 L 19 7" stroke="#FF7655"/>
-  <path d="M 19 7 L 19 12" stroke="#ff924c"/>
-  <path d="M 19 12 L 16 12" stroke="#FFAE43"/>
-  <path d="M 16 12 L 13.013 16" stroke="#ffca3a"/>
-  <path d="M 13.013 16 L 10.986 16" stroke="#C5CA30"/>
-  <path d="M 10.986 16 L 8 12" stroke="#8ac926"/>
-  <path d="M 8 12 L 5 12" stroke="#52A675"/>
-  <path d="M 5 12 L 5 7" stroke="#1982c4"/>
-  <path d="M 5 7 L 8 7" stroke="#4267AC"/>
-  <path d="M 8 7 L 8 2" stroke="#6a4c93"/>
+  <path d="M 11.989 16 A2 2 0 0 1 10.386 15.196" stroke="#1982c4"/>
+  <path d="M 10.386 15.196 L 8.6 12.804" stroke="#4267AC"/>
+  <path d="M 8.6 12.804 A2 2 0 0 0 6.997 12" stroke="#6a4c93"/>
+  <path d="M 6.997 12 L 6 12" stroke="#B55379"/>
+  <path d="M 6 12 A1 1 0 0 1 5 11" stroke="#FF595E"/>
+  <path d="M 5 11 L 5 8" stroke="#FF7655"/>
+  <path d="M 5 8 A1 1 0 0 1 6 7" stroke="#ff924c"/>
+  <path d="M 6 7 L 7 7" stroke="#FFAE43"/>
+  <path d="M 7 7 A1 1 0 0 0 8 6" stroke="#ffca3a"/>
+  <path d="M 8 6 L 8 3" stroke="#C5CA30"/>
+  <path d="M 8 3 A1 1 0 0 1 9 2" stroke="#8ac926"/>
+  <path d="M 9 2 L 15 2" stroke="#52A675"/>
+  <path d="M 15 2 A1 1 0 0 1 16 3" stroke="#1982c4"/>
+  <path d="M 16 3 L 16 6" stroke="#4267AC"/>
+  <path d="M 16 6 A1 1 0 0 0 17 7" stroke="#6a4c93"/>
+  <path d="M 17 7 L 18 7" stroke="#B55379"/>
+  <path d="M 18 7 A1 1 0 0 1 19 8" stroke="#FF595E"/>
+  <path d="M 19 8 L 19 11" stroke="#FF7655"/>
+  <path d="M 19 11 A1 1 0 0 1 18 12" stroke="#ff924c"/>
+  <path d="M 18 12 L 17.003 12" stroke="#FFAE43"/>
+  <path d="M 17.003 12 A2 2 0 0 0 15.4 12.803" stroke="#ffca3a"/>
+  <path d="M 15.4 12.803 L 13.613 15.197" stroke="#C5CA30"/>
+  <path d="M 13.613 15.197 A2 2 0 0 1 12.01 16" stroke="#8ac926"/>
+  <path d="M 12 20 C 11.816 20.853 11.099 21.48 10.293 21.771" stroke="#52A675"/>
+  <path d="M 10.293 21.771 C 9.449 22.076 8.547 22 7.668 22" stroke="#1982c4"/>
+  <path d="M 7.668 22 L 3 22" stroke="#4267AC"/>
 </svg>
