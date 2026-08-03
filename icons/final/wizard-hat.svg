@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="lucide lucide-wizard-hat-icon lucide-wizard-hat"
+>
+  <path d="M11.5 16h2" />
+  <path d="M12 11h.01" />
+  <path d="M12.5 17v-2" />
+  <path d="m18 17-2.525-8.257a2 2 0 01-.038-1.473l1.533-3.599a.5.5 0 00-.69-.62L9.679 6.66a2 2 0 00-.961 1.045L6 17" />
+  <path d="M2.264 20a3 3 0 001.564 1h16.344a3 3 0 001.592-1.032" />
+</svg>
