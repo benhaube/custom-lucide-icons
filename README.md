@@ -13,11 +13,11 @@ Recently, I have been working on my personal network documentation and professio
 
 The icons in the '/icons/work-in-progress' directory are not in their final form. This directory contains the working files I use to create the final icon. The `work-in-progress` directory contains the following files:
 
-| File Name         | Description                                                                                              |
-| :---------------- | :------------------------------------------------------------------------------------------------------- |
-| `*-inkscape.svg`  | The original source of the icon, created in Inkscape.                                                    |
-| `*-optimized.svg` | The file saved by Inkscape as an "optimized" SVG with all extra Inkscape metadata striped from the code. |
-| `*-studio.svg`    | The icon from Lucide Studio with "tidied" XML code.                                                      |
+| File Name         | Description                                                                                |
+| :---------------- | :----------------------------------------------------------------------------------------- |
+| `*-inkscape.svg`  | The original source of the icon, created in Inkscape.                                      |
+| `*-optimized.svg` | The file saved by Inkscape as an "optimized" SVG with all extra Inkscape metadata striped. |
+| `*-studio.svg`    | The icon from Lucide Studio with "tidied" XML code.                                        |
 
 ### Finalized Icons
 
